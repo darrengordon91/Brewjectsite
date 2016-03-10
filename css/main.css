@@ -79,7 +79,6 @@ header {
   text-align: center;
   color: white;
   text-align: center;
-  color: ffffff;
 }
 header .intro-text {
   padding-top: 100px;
@@ -114,10 +113,3 @@ section h2.section-heading {
   margin-top: 0;
   margin-bottom: 15px;
 }
-section h3.section-subheading {
-  font-size: 16px;
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: none;
-  font-style: italic;
-  font-weight: 400;
-  margin-bottom: 75px;
